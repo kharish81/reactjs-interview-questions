@@ -1,18 +1,4 @@
-# React Interview Questions & Answers
-
-> Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates.
-
----
-
-<div>
-<p align="center">
-  <a href=https://react.gg/?s=rjsiq>
-    <img src="./images/collab/uidev-banner4x.png" alt="React interview" width="100%">
-  </a>
-</p>
-</div>
-
----
+# React Interview Questions & Answers:
 
 <div>
 <p align="center">
